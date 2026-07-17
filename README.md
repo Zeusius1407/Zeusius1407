@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Agarwal</h1>
-<h3 align="center">A dedicated AI/ML dev from India</h3>
+<h3 align="center">Currently in my Junior year of college. I am mostly interested in ML and systems programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeusius1407&label=Profile%20views&color=0e75b6&style=flat" alt="zeusius1407" /> </p>
 
